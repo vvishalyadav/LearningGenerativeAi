@@ -1,1 +1,9 @@
 [HF] = 'pf_OTVrEhtiqtJrsLXpQMnlbRFlrvyYBmiLRp'  hk
+
+GoogleKey = 'KQ.Ab8RN6K03YKvWjg5sD-KHVuyJq-0AwLCnV495y8fhvlQRU1W9M'   AA
+
+OpenAiKey 'Ak-proj-h1b9vN9uFGCWEUF0lR2BdkT6VbkgeobUSux6amoXmzlkNNBRbRgNN_neBiMlPEmsd67JNnktFFT3BlbkFJjtBm0GBKOdo30XryJ-FrU8xJBN-JAcbmpMgyE_gbju-pDjWJlnqWYHdup3gsJK-eayLTL75z0N' AA
+
+
+
+
